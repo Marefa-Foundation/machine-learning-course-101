@@ -14,6 +14,16 @@
 
 </p>
 
+## كيف تساهم في تحرير المحتويات
+
+
+الكتاب مفتوح للمساهمة من أي فرد. لتسهيل الأمر عليك, وفرنا هذه الفيديوهات لتتمكن من المشاركة بسهولة في أي من مشاريع كتاب المعرفة
+
+* لتتعرف على كيفية إستخدام نظام الـ Github لتتمكن من المساهمة في المشروع. شاهد هذا 
+   [الفيديو](https://youtu.be/sEbS6uqsXFo)
+* لتتعرف على كيفية عمل نظام تنسيق المحتويات Markdown و كيف تضيف محتوى جديد إلى المشروع. شاهد هذا
+   [الفيديو](https://youtu.be/zIX9DbDicXg)
+
 ## الفهرس Index
 
  <details>
@@ -23,16 +33,16 @@
   1. <details>
        <summary>Linear Algebra</summary>
         
-       1. [Introduction المقدمة](contents/01.Mathematics-For-Machine-Learning/01-01.Linear-Algebra/01-01-01.Introduction.md)
+       1. [Introduction المقدمة]()
        2. Systems of Linear Equations
-       3. Matrices
+       3. Matrices المصفوفات
           1. Matrix Addition and Multiplication
           2. Inverse and Transpose
           3. Multiplication by a Scalar
           4. Compact Representations of Systems of Linear Equations
           5. Solving Systems of Linear Equations
           6. Elementary Transformations
-          7. The Minus-1 Trick
+          7. [The Minus-1 Trick](contents/ch.01.linear-algebra/1.3.7.the-minus-1-trick.md)
           8. Algorithms for Solving a System of Linear Equations
           9. Vector Spaces
           10. Vector Subspaces
