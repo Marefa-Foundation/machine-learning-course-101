@@ -25,7 +25,7 @@
         
        1. [Introduction المقدمة](contents/01.Mathematics-For-Machine-Learning/01-01.Linear-Algebra/01-01-01.Introduction.md)
        2. Systems of Linear Equations
-       3. Matrices
+       3. Matrices المصفوفات
           1. Matrix Addition and Multiplication
           2. Inverse and Transpose
           3. Multiplication by a Scalar
