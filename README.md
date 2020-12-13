@@ -31,7 +31,7 @@
 
   0. How to read كيف تقرأ هذا الفصل
   1. <details>
-       <summary>Linear Algebra</summary>
+       <summary>Linear Algebra الجبر الخطي</summary>
         
        1. [Introduction المقدمة]()
        2. Systems of Linear Equations
