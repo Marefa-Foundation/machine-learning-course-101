@@ -27,19 +27,19 @@
 ## الفهرس Index
 
  <details>
-  <summary>Mathematics For Machine Learning</summary>
+  <summary>Mathematics For Machine Learning الرياضيات للتعلم الآلي</summary>
 
   0. How to read كيف تقرأ هذا الفصل
   1. <details>
        <summary>Linear Algebra الجبر الخطي</summary>
         
        1. [Introduction المقدمة]()
-       2. Systems of Linear Equations
+       2. Systems of Linear Equations نظم المعادلات الخطية
        3. Matrices المصفوفات
-          1. Matrix Addition and Multiplication
-          2. Inverse and Transpose
-          3. Multiplication by a Scalar
-          4. Compact Representations of Systems of Linear Equations
+          1. Matrix Addition and Multiplication جمع وضرب المصفوفات
+          2. Inverse and Transpose العكس والنقل
+          3. Multiplication by a Scalar الضرب بمقدار عددي
+          4. Compact Representations of Systems of Linear Equations التمثيلات المدمجة لنظم المعادلات الخطية
           5. Solving Systems of Linear Equations
           6. Elementary Transformations
           7. [The Minus-1 Trick](contents/ch.01.linear-algebra/1.3.7.the-minus-1-trick.md)
