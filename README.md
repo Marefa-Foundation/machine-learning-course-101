@@ -37,25 +37,25 @@
        2. Systems of Linear Equations نظم المعادلات الخطية
        3. Matrices المصفوفات
           1. Matrix Addition and Multiplication جمع وضرب المصفوفات
-          2. Inverse and Transpose العكس والنقل
+          2. Inverse and Transpose هاعكس المصفوفات ونقل
           3. Multiplication by a Scalar الضرب بمقدار عددي
           4. Compact Representations of Systems of Linear Equations التمثيلات المدمجة لنظم المعادلات الخطية
-          5. Solving Systems of Linear Equations
-          6. Elementary Transformations
-          7. [The Minus-1 Trick](contents/ch.01.linear-algebra/1.3.7.the-minus-1-trick.md)
-          8. Algorithms for Solving a System of Linear Equations
-          9. Vector Spaces
-          10. Vector Subspaces
-          11. Linear Independence
-          12. Basis and Rank
-              1.  Generating Set and Basis
-              2.  Linear Mappings
-              3.  Matrix Representation of Linear Mappings
-          13. Basis Change
-          14. Image and Kernel
-          15. Afﬁne Spaces
-              1.  Afﬁne Subspaces
-              2.  Afﬁne Mappings 
+          5. Solving Systems of Linear Equations حل نظم المعادلات الخطية
+          6. Elementary Transformations التحويلات الأولية
+          7. [The Minus-1 Trick](contents/ch.01.linear-algebra/1.3.7.the-minus-1-trick.md)طريقةناقص-1
+          8. Algorithms for Solving a System of Linear Equations خوارزميات لحل نظام المعادلات الخطية
+          9. Vector Spaces فضاءات شعاع
+          10. Vector Subspaces فضاءات شعاع فرعية
+          11. Linear Independence الاستقلال الخطي
+          12. Basis and Rank الأساس والمرتبة 
+              1.  Generating Set and Basis توليد المجموعة والأساس
+              2.  Linear Mappings التخطيط الخطي
+              3.  Matrix Representation of Linear Mappings تمثيل المصفوفات للتخطيطات الخطية
+          13. Basis Change تغيير الأساس
+          14. Image and Kernel الصورة والنواة
+          15. Afﬁne Spaces الفضاءات الأفقية
+              1.  Afﬁne Subspaces فضاءات أفقية فرعية
+              2.  Afﬁne Mappings التخطيط الأفقي
 
      </details>
   2. <details>
