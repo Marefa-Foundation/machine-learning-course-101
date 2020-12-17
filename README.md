@@ -59,116 +59,116 @@
 
      </details>
   2. <details>
-       <summary>Analytic Geometry</summary>
+       <summary>Analytic Geometry الهندسة التحليلية</summary>
 
        1. Introduction المقدمة
-       2. Norms
-       3. Inner Products
-          1. Dot Product
-          2. General Inner Products
-          3. Symmetric, Positive Deﬁnite Matrices
-       4. Lengths and Distances
-       5. Angles and Orthogonality
-       6. Orthonormal Basis
-       7. Orthogonal Complement
-       8. Inner Product of Functions
-       9. Orthogonal Projections
-          1.  About
-          2.   Projection onto One-Dimensional Subspaces (Lines)
-          3.   Projection onto General Subspaces
-          4.   Gram-Schmidt Orthogonalization
-          5.   Projection onto Afﬁne Subspaces
-        1.  Rotations
-            1.  About
-            2.  Rotations in R2
-            3.  Rotations in R3
-            4.  Rotations in n Dimensions
-            5.  Properties of Rotations
+       2. Norms المعايير
+       3. Inner Products الجداء الداخلي 
+          1. Dot Product الجداي النقطي
+          2. General Inner Products الجداء الداخلي العام
+          3. Symmetric, Positive Deﬁnite Matrices المصفوفات المحددة المتماثلة والموجبة
+       4. Lengths and Distances الأطوال والمسافات
+       5. Angles and Orthogonality الزوايا والتعامد
+       6. Orthonormal Basis أساس متعامد
+       7. Orthogonal Complement متمم متعامد
+       8. Inner Product of Functions الجداء الداخلي للدوال
+       9. Orthogonal Projections الإسقاطات المتعامدة
+          1.  About حول
+          2.   Projection onto One-Dimensional Subspaces (Lines) الإسقاط على الفضاءات الفرعية الأحادية البعد (الخطوط)
+          3.   Projection onto General Subspaces الإسقاط على الفضاءات الفرعية العامة
+          4.   Gram-Schmidt Orthogonalization تعامد گرام-شميت
+          5.   Projection onto Afﬁne Subspaces الإسقاط على الفضاءات الفرعية الأفقية
+        1.  Rotations الدوران
+            1.  About حول
+            2.  Rotations in R2 الدوران في R2
+            3.  Rotations in R3 الدوران في R3
+            4.  Rotations in n Dimensions الدوران في n بعد
+            5.  Properties of Rotations خواص الدوران
        
 
      </details>
   3. <details>
-       <summary>Matrix Decompositions</summary>
+       <summary>Matrix Decompositions تحليلات المصفوفة</summary>
 
        1. Introduction المقدمة
-       2. Determinant and Trace
-       3. Eigenvalues and Eigenvectors
-       4. Cholesky Decomposition
-       5. Eigendecomposition and Diagonalization
-       6. Geometric Intuition for the Eigendecomposition
-       7. Singular Value Decomposition
-          1. Geometric Intuitions for the SVD
-          2. Construction of the SVD
-       8. Matrix Approximation
-       9. Matrix Phylogeny
+       2. Determinant and Trace المحدد والشكل
+       3. Eigenvalues and Eigenvectors القيم الذاتية والمتجهات الذاتية
+       4. Cholesky Decomposition تحليل تشوليسكي
+       5. Eigendecomposition and Diagonalization التحليل الذاتي و التشكيل القطري
+       6. Geometric Intuition for the Eigendecomposition الحدس الهندسي لتكوين التحليل الذاتي
+       7. Singular Value Decomposition تحليل القيمة الفردية
+          1. Geometric Intuitions for the SVD الحدس الهندسي لـ SVD
+          2. Construction of the SVD تشكيل SVD
+       8. Matrix Approximation تقريب المصفوفة
+       9. Matrix Phylogeny تطور المصفوفات
      </details>
   4. <details>
-       <summary>Vector Calculus</summary>
+       <summary>Vector Calculus حساب تفاضل وتكامل متجه</summary>
 
        1. Introduction المقدمة
-       2. Differentiation of Univariate Functions
-          1. Taylor Series
-          2. Differentiation Rules
-       3. Partial Differentiation and Gradients
-          1. Basic Rules of Partial Differentiation
-          2. Chain Rule
-       4. Gradients of Vector-Valued Functions
-       5. Gradients of Matrices
-       6. Useful Identities for Computing Gradients
-       7. Backpropagation and Automatic Differentiation
-          1. Gradients in a Deep Network
-          2. Automatic Differentiation
-       8. Higher-Order Derivatives
-       9. Linearization and Multivariate Taylor Series
+       2. Differentiation of Univariate Functions تفاضل الدوال أحادية المتغير
+          1. Taylor Series متسلسلة تايلر
+          2. Differentiation Rules قوانين التفاضل
+       3. Partial Differentiation and Gradients التفاضل الجزئي والتدرجات
+          1. Basic Rules of Partial Differentiation القواعد الأساسية للتفاضل الجزئي
+          2. Chain Rule قانون السلاسل
+       4. Gradients of Vector-Valued Functions تدرجات الدوال ذات القيم المتجهة
+       5. Gradients of Matrices تدرجات المصفوفات
+       6. Useful Identities for Computing Gradients مطابقات مفيدة لحساب التدرجات
+       7. Backpropagation and Automatic Differentiation النشر العكسي والتفاضل التلقائي
+          1. Gradients in a Deep Network التدرجات في شبكة عميقة
+          2. Automatic Differentiation التفاضل التلقائي
+       8. Higher-Order Derivatives المشتقات ذات الترتيب الأعلى
+       9. Linearization and Multivariate Taylor Series متسلسلة تايلر الخطية ومتعددة المتغيرات
        
      </details>
   5. <details>
-       <summary>Probability and Distributions</summary>
+       <summary>Probability and Distributions الاحتمالات والتوزيعات</summary>
 
        1. Introduction المقدمة
-       2. Construction of a Probability Space
-          1. Philosophical Issues
-          2. Probability and Random Variables
-          3. Statistics
-       3.  Discrete and Continuous Probabilities
-           1.  Discrete Probabilities
-           2.  Continuous Probabilities
-           3.  Contrasting Discrete and Continuous Distributions
-       4.  Sum Rule, Product Rule, and Bayes’ Theorem
-       5.  Summary Statistics and Independence
-           1.  Means and Covariances
-           2.  Empirical Means and Covariances
-           3.  Three Expressions for the Variance
-           4.  Sums and Transformations of Random Variables
-           5.  Statistical Independence
-           6.  Inner Products of Random Variables
-       6. Gaussian Distribution
-          1. Introduction
-          2. Marginals and Conditionals of Gaussians are Gaussians
-          3. Product of Gaussian Densities
-          4. Sums and Linear Transformations
-          5. Sampling from Multivariate Gaussian Distributions
-       7. Conjugacy and the Exponential Family
-          1. Introduction
-          2. Conjugacy
-          3. Sufﬁcient Statistics
-          4. Exponential Family
-       8. Change of Variables/Inverse Transform
-          1. Distribution Function Technique
-          2. Change of Variables 
+       2. Construction of a Probability Space تشكيل الفضاء الاحتمالي
+          1. Philosophical Issues مسائل فلسفية
+          2. Probability and Random Variables الاحتمالية والمتغيرات العشوائية
+          3. Statistics الإحصاء
+       3.  Discrete and Continuous Probabilities الاحتمالات المتقطعة والمستمرة
+           1.  Discrete Probabilities الاحتمالات المتقطعة
+           2.  Continuous Probabilities الاحتمالات المستمرة
+           3.  Contrasting Discrete and Continuous Distributions التوزيعات المتناقضة المتقطعة والمستمرة
+       4.  Sum Rule, Product Rule, and Bayes’ Theorem قاعدة المجموع وقاعدة الجداء ونظرية بايز
+       5.  Summary Statistics and Independence إحصاءات موجزة ومستقلة
+           1.  Means and Covariances المتوسطات والمتغايرات
+           2.  Empirical Means and Covariances المتوسطات التجريبية والمتغايرات
+           3.  Three Expressions for the Variance ثلاثة تعبيرات عن التباين
+           4.  Sums and Transformations of Random Variables مجاميع وتحويلات المتغيرات العشوائية
+           5.  Statistical Independence الاستقلال الإحصائي
+           6.  Inner Products of Random Variables الجداء الداخلي للمتغيرات العشوائية
+       6. Gaussian Distribution التوزيع الگاوسي
+          1. Introduction المقدمة
+          2. Marginals and Conditionals of Gaussians are Gaussians  الهوامش والشروط من الگاوسيات هي گاوسيات
+          3. Product of Gaussian Densities جداء الكثافات الگاوسية
+          4. Sums and Linear Transformations المجاميع والتحويلات الخطية
+          5. Sampling from Multivariate Gaussian Distributions أخذ العينات من التوزيعات الگاوسية متعددة المتغيرات
+       7. Conjugacy and the Exponential Family الترافق والعائلة الأسية
+          1. Introduction المقدمة
+          2. Conjugacy الترافق
+          3. Sufﬁcient Statistics الإحصائيات الكافية
+          4. Exponential Family العائلة الأسية
+       8. Change of Variables/Inverse Transform تغيير المتحولات / التحويل العكسي
+          1. Distribution Function Technique تقنية وظيفة التوزيع
+          2. Change of Variables تغيير المتحولات
      </details>
   6. <details>
-       <summary>Continuous Optimization</summary>
+       <summary>Continuous Optimization التحسين المستمر</summary>
        
-       1. Optimization Using Gradient Descent
-          1. Step-size
-          2. Gradient Descent With Momentum
-          3. Stochastic Gradient Descent
-       2. Constrained Optimization and Lagrange Multipliers
-       3. Convex Optimization
-          1. Linear Programming
-          2. Quadratic Programming
-          3. Legendre-Fenchel Transform and Convex Conjugate 
+       1. Optimization Using Gradient Descent التحسين باستخدام الانحدار المتدرج
+          1. Step-size حجم الخطوة
+          2. Gradient Descent With Momentum الانحدار المتدرج مع قوة دافعة
+          3. Stochastic Gradient Descent الانحدار المتدرج العشوائي
+       2. Constrained Optimization and Lagrange Multipliers التحسين المقيد ومضاعفات لاگرانج
+       3. Convex Optimization التحسين المحدب
+          1. Linear Programming البرمجة الخطية
+          2. Quadratic Programming البرمجة الرباعية
+          3. Legendre-Fenchel Transform and Convex Conjugate تحويل ليجيندر فينشل و الترافق المحدب
      </details>
 
 </details>
